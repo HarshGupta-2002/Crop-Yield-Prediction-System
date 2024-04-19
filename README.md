@@ -7,4 +7,4 @@ This project suggests using deep learning and machine learning techniques to for
 ![image](https://github.com/HarshGupta-2002/Crop-Yield-Prediction-System/assets/81915099/08170329-c1cf-462f-9fa8-c1806cf02419)
 
 ## Yield Prediction (with output)
-![image](https://github.com/HarshGupta-2002/Crop-Yield-Prediction-System/assets/81915099/7831b0a7-d32a-42b9-a91b-ec49e502a6be)
+![image](https://github.com/HarshGupta-2002/Crop-Yield-Prediction-System/assets/81915099/4af577a0-97a2-458d-98c8-c3b372c9d1fb)
