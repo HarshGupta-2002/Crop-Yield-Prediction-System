@@ -113,7 +113,6 @@ section {
   position: relative;
   width: 50%;
   margin-left: 25%;
-  /* border-style: solid; */
   text-align: center;
 }
 #topic {
@@ -129,8 +128,13 @@ table {
   width: 100%;
 }
 table td {
-  padding: 5px;
+  padding: 5px 5px 5px 20px;
+  text-align: left;
+}
+.left {
+  text-align: right;
   width: 50%;
+  padding-right: 20px;
 }
 label {
   padding: 3%;
