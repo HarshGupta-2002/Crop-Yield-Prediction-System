@@ -121,7 +121,7 @@ nbclient==0.7.2
 nbconvert==7.16.3
 nbformat==5.7.3
 nest-asyncio==1.5.6
-networkx @ file:///C:/Users/Harsh%20Gupta/Downloads/networkx-3.0-py3-none-any.whl
+networkx==3.3
 nltk==3.8.1
 notebook==6.5.2
 notebook_shim==0.2.2
@@ -196,7 +196,7 @@ scikit-learn==1.2.1
 scipy==1.10.0
 seaborn==0.12.2
 Send2Trash==1.8.0
-shap @ file:///C:/Users/Harsh%20Gupta/Downloads/shap-0.41.0-cp310-cp310-win_amd64.whl
+shap==0.45.0
 shapely==2.0.2
 shellescape==3.8.1
 simplejson==3.19.1
